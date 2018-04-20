@@ -3,5 +3,5 @@ B
 C
 D
 E
-F
-G
+F-B2
+G-B2
